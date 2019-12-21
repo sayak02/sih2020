@@ -1,9 +1,7 @@
 
 body { 
   background: url(bg1.jpg) no-repeat center center fixed; 
-  /*-webkit-background-size: cover;
-  -moz-background-size: cover;*/
-  /*-o-background-size: cover;*/
+ 
   background-size: cover;
 }
 input,select
@@ -14,7 +12,6 @@ input,select
   width: 100%;
   padding: 15px;
   margin: 5px 0 5px 0;
-  /*border: none;*/
   background: #f1f1f1;
 
 }
@@ -22,13 +19,11 @@ input,select
  {
 
 
-  /*position: absolute;*/
 
   right: 0;
   margin: 20px;
   max-width: 300px;
   padding: 16px;
-  /*background-color: white;*/
 }
 
 .gender
@@ -45,8 +40,7 @@ input,select
 	border-radius: 50px;
 	display: inline-block;
 	border: none;
-	/*transition: all 0.4s ease 0s;*/
-
+	
 }
 .sas:hover
 {
